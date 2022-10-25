@@ -12,5 +12,8 @@
   },
   "volta": {
     "node": "16.18.0"
+  },
+  "dependencies": {
+    "@chakra-ui/vue-next": "^1.0.0-alpha.15"
   }
 }
